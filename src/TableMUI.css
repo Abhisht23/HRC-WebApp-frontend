@@ -1,0 +1,38 @@
+.MuiTable-root{
+    background: #273d49;
+    color: white
+  }
+  
+  .MuiPaper-root{
+    background: #273d49 !important;
+    color: white
+  }
+  
+  .MuiTableRow-root{
+    background: #273d49 !important;
+    color: white !important
+  }
+  
+  .MuiTableCell-root{
+    color: white !important
+  } 
+  
+  .MuiTableCell-root:hover{
+    color: white !important
+  } 
+  
+  .Mui-active{
+    color: white !important
+  }
+  .MuiButtonBase:hover{
+    color: white !important
+  }
+  .MuiTableSortLabel-root{
+    color: white !important
+  }
+  .MuiCheckbox-root{
+    color: white !important
+  }
+  .MuiToolbar-root, .MuiToolbar-gutters, .MuiToolbar-regular, .MuiTablePagination-toolbar, .css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar{
+    color: white !important
+  }
